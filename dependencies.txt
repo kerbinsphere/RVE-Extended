@@ -5,7 +5,7 @@ RSS-Textures
 Real Solar System
 Principia
 
-all dependencies must be installed before RVE remastered
+all dependencies must be installed before RVE Extended
 
 note: any version of these mods should be compatible as long as they are compatible with KSP v1.8.1.2694
 
