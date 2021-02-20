@@ -1,1 +1,0 @@
-simply drag the contents of the GameData folder within the RVE Remastered master.zip into your GameData in KSP, if it asks you whether you want to overright 1 or more files, say yes, otherwise you won't get all of the modifications
