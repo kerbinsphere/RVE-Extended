@@ -1,0 +1,14 @@
+Required (nothing will work without them and their dependencies)
+
+Kopernicus
+Real Solar System
+Module Manager
+
+Highly Recommended (you need these for aurorae)
+
+RSSVE
+Environmental Visual Enhancements
+
+Also Recommended (you need this for better aurorae and lightning)
+
+Real Visual Enhancements 64k
